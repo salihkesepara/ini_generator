@@ -8,6 +8,6 @@ https://git-scm.com/download/win
 
 3- Go to file directory
 
-4- run "node index.js"
+4- run "npm start"
 
 5- DONE!

@@ -1,0 +1,23 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "simple",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salihkesepara/ini_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salihkesepara/ini_generator/issues"
+  },
+  "homepage": "https://github.com/salihkesepara/ini_generator#readme"
+}
